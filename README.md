@@ -7,4 +7,4 @@
 ### Task 2
 #### To add another column to the table named label_year
 
-#### For both the task we are using MySQL database, any using python code, we are connecting to MySQL database and accessing the data from the table.
+#### For both the task we are using MySQL database, and using python code, we are connecting to MySQL database and accessing the data from the table.
